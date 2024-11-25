@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\My_WorkSpace\\DoAnCSN\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|d:\\my_workspace\\doancsn\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|solutionrelative:controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|D:\\My_WorkSpace\\DoAnCSN\\views\\admin\\thuchiendv.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|solutionrelative:views\\admin\\thuchiendv.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|D:\\My_WorkSpace\\DoAnCSN\\views\\admin\\chitietdichvu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|solutionrelative:views\\admin\\chitietdichvu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|D:\\My_WorkSpace\\DoAnCSN\\views\\staffpv\\lichsuchamsoc.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|solutionrelative:views\\staffpv\\lichsuchamsoc.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|D:\\My_WorkSpace\\DoAnCSN\\views\\home\\header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|solutionrelative:views\\home\\header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|D:\\My_WorkSpace\\DoAnCSN\\views\\user\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|solutionrelative:views\\user\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ThucHienDV.cshtml",
+              "DocumentMoniker": "D:\\My_WorkSpace\\DoAnCSN\\Views\\Admin\\ThucHienDV.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\ThucHienDV.cshtml",
+              "ToolTip": "D:\\My_WorkSpace\\DoAnCSN\\Views\\Admin\\ThucHienDV.cshtml",
+              "RelativeToolTip": "Views\\Admin\\ThucHienDV.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-21T00:54:17.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChiTietDichVu.cshtml",
+              "DocumentMoniker": "D:\\My_WorkSpace\\DoAnCSN\\Views\\Admin\\ChiTietDichVu.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\ChiTietDichVu.cshtml",
+              "ToolTip": "D:\\My_WorkSpace\\DoAnCSN\\Views\\Admin\\ChiTietDichVu.cshtml",
+              "RelativeToolTip": "Views\\Admin\\ChiTietDichVu.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-21T00:52:44.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "D:\\My_WorkSpace\\DoAnCSN\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
+              "ToolTip": "D:\\My_WorkSpace\\DoAnCSN\\Controllers\\AdminController.cs*",
+              "RelativeToolTip": "Controllers\\AdminController.cs*",
+              "ViewState": "AgIAAGIBAAAAAAAAAAAQwG0BAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T00:47:02.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LichSuChamSoc.cshtml",
+              "DocumentMoniker": "D:\\My_WorkSpace\\DoAnCSN\\Views\\StaffPV\\LichSuChamSoc.cshtml",
+              "RelativeDocumentMoniker": "Views\\StaffPV\\LichSuChamSoc.cshtml",
+              "ToolTip": "D:\\My_WorkSpace\\DoAnCSN\\Views\\StaffPV\\LichSuChamSoc.cshtml",
+              "RelativeToolTip": "Views\\StaffPV\\LichSuChamSoc.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-21T00:37:05.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Header.cshtml",
+              "DocumentMoniker": "D:\\My_WorkSpace\\DoAnCSN\\Views\\Home\\Header.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Header.cshtml",
+              "ToolTip": "D:\\My_WorkSpace\\DoAnCSN\\Views\\Home\\Header.cshtml",
+              "RelativeToolTip": "Views\\Home\\Header.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T18:55:06.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "D:\\My_WorkSpace\\DoAnCSN\\Views\\User\\Profile.cshtml",
+              "RelativeDocumentMoniker": "Views\\User\\Profile.cshtml",
+              "ToolTip": "D:\\My_WorkSpace\\DoAnCSN\\Views\\User\\Profile.cshtml",
+              "RelativeToolTip": "Views\\User\\Profile.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAHAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T18:53:25.101Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
